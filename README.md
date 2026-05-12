@@ -1,63 +1,97 @@
+<div align="center">
+
 # 👋 Hi, I'm Joemar Jay!
 
-💻 Aspiring Web Developer  
-🎓 Student | Building real-world projects  
-🚀 Passionate about creating useful and user-friendly systems  
+### 💻 Aspiring Web Developer  
+### 🎓 Student • Building Real-World Projects  
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q1dG9wMXJ5dTZ4MXJmN3VpdGN4N3N5N3Rsd3l5d2l1aGxqM3JnbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="100%">
+
+<br>
+
+![](https://img.shields.io/badge/FOCUS-FULLSTACK_DEVELOPMENT-black?style=for-the-badge)
+![](https://img.shields.io/badge/PROJECT-PADINIG_AI-red?style=for-the-badge)
+![](https://img.shields.io/badge/GOAL-REMOTE_WORK-orange?style=for-the-badge)
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
-- 🌱 Currently learning: Full-Stack Development  
-- 🔧 Building: Web apps for real-world use (like barangay systems)  
-- 🎯 Goal: Become a skilled developer and land freelance/remote work  
-- ⚡ Fun fact: I enjoy turning ideas into actual working systems  
+- 🌱 Currently learning **Full-Stack Development**
+- 🔧 Building web apps for real-world use
+- 🚀 Passionate about creating useful systems
+- 🎯 Goal: Become a skilled developer and work remotely
+- ⚡ I enjoy turning ideas into actual working systems
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-**Frontend**
-- HTML, CSS, JavaScript
-- React (if you use it, keep it — if not, remove)
+## 🎨 Frontend
+- HTML
+- CSS
+- JavaScript
 
-**Backend**
+## ⚙️ Backend
 - Node.js
-- Express
+- Express.js
 
-**Database**
-- MongoDB / MySQL (choose what you use)
+## 🗄️ Database
+- MongoDB
 
-**Tools**
+## 🧰 Tools
 - Git & GitHub
 - VS Code
 - Postman
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Project
 
-🔹 **Padinig AI System**  
-A smart barangay announcement system with emergency broadcast features.
+## 🔹 Padinig AI System
+A smart barangay announcement and emergency broadcast system designed to improve communication between barangay officials and residents.
 
-
-
----
-
-## 📊 GitHub Stats
-
-![Joemar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+### ✨ Features
+- 📢 Real-time announcements
+- 🤖 AI chatbot assistant
+- 🚨 Emergency broadcast system
+- 📱 Mobile-friendly interface
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-- 📧 Email: joemarjayoregor02@gmail.com
-- 
-- 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="48%">
+</p>
 
 ---
 
-## 💡 Quote
+# 📫 Connect With Me
 
-> "Code. Learn. Build. Repeat."
+<p align="left">
+<a href="mailto:joemarjayoregor02@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-blue?style=for-the-badge&logo=gmail">
+</a>
+</p>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+> ### "Code. Learn. Build. Repeat."
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer"/>
+
+</div>
