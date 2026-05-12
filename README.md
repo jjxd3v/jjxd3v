@@ -5,7 +5,7 @@
 ### 💻 Aspiring Web Developer  
 ### 🎓 Student • Building Real-World Projects  
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q1dG9wMXJ5dTZ4MXJmN3VpdGN4N3N5N3Rsd3l5d2l1aGxqM3JnbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="100%">
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q1dG9wMXJ5dTZ4MXJmN3VpdGN4N3N5N3Rsd3l5d2l1aGxqM3JnbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Nka3FtcHFodWwzeGw5ajRoZ2E5cHgzMDhxcm52MW04ZGh1eThudCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/3o7abpYhfcdB0pN6FO/giphy.gif)" width="100%">
 
 <br>
 
