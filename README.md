@@ -17,29 +17,33 @@ alt="Typing intro"
 &nbsp;
 <img src="https://img.shields.io/badge/BUILD%20WITH%20INTENT-7f1d1d?style=for-the-badge&logoColor=white"/>
 <br/><br/>
+</div>
 
-< STACK />
+⚙️ Stack
+<div align="center">
 <img
-src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cs,dart,react,nextjs,vue,nodejs,express,laravel,django,flask,flutter,dotnet,tailwind,bootstrap,mysql,postgres,mongodb,firebase,supabase,git,github,postman,vscode,visualstudio,figma,docker,linux,nginx,vercel,arduino&perline=10&theme=dark"
-alt="Tech stack"
+  src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cs,dart,react,nextjs,vue,nodejs,express,laravel,django,flask,flutter,dotnet,tailwind,bootstrap,mysql,postgres,mongodb,firebase,supabase,git,github,postman,vscode,visualstudio,figma,docker,linux,nginx,vercel,arduino&perline=10&theme=dark"
+  alt="Tech stack"
 />
-<br/><br/>
+</div>
 
-< PERFORMANCE />
+📊 Performance
+<div align="center">
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=jjxd3v&show_icons=true&hide_border=true&rank_icon=github&theme=dark&title_color=DC2626&icon_color=DC2626&text_color=a0a0a0&bg_color=0d0d0d"
+src="https://github-readme-stats.vercel.app/api?username=jjxd3v&show_icons=true&hide_border=true&rank_icon=github&theme=dark&title_color=DC2626&icon_color=DC2626&text_color=a0a0a0&bg_color=0d0d0d&cache_seconds=1800"
 alt="GitHub stats"
 />
  
 <img
 height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=jjxd3v&hide_border=true&theme=dark&ring=DC2626&fire=DC2626&currStreakLabel=ffffff&sideLabels=888888&dates=555555&background=0d0d0d"
+src="https://streak-stats.demolab.com/?user=jjxd3v&hide_border=true&theme=dark&ring=DC2626&fire=DC2626&currStreakLabel=ffffff&sideLabels=888888&dates=555555&background=0d0d0d"
 alt="GitHub streak"
 />
-<br/><br/>
+</div>
 
-< ACTIVITY />
+🔥 Activity
+<div align="center">
 <img
 width="95%"
 src="https://github-readme-activity-graph.vercel.app/graph?username=jjxd3v&theme=github-dark&hide_border=true&area=true&color=DC2626&line=DC2626&point=FB7185&bg_color=0d0d0d"
