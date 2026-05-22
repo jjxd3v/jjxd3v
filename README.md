@@ -2,7 +2,7 @@
 
 <img
   src="https://media.tenor.com/R7DsESDMS-YAAAAi/yo-luffy.gif"
-  width="100%"
+  width="50%"
   alt="dark street banner"
 />
 
