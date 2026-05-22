@@ -38,7 +38,7 @@
 
 ---
 
-## 📊 Performance
+##  Performance
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 
 ---
 
-## 🔥 Activity
+##  Activity
 
 <div align="center">
 
