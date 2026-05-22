@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://media3.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif"
+  src="https://media.tenor.com/R7DsESDMS-YAAAAi/yo-luffy.gif"
   width="100%"
   alt="dark street banner"
 />
