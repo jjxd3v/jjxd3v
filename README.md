@@ -1,97 +1,75 @@
 <div align="center">
 
-# 👋 Hi, I'm Joemar Jay!
+  <!-- Premium Animated Top GIF -->
+  <img
+    src="https://raw.githubusercontent.com/R4zor08/R4zor08/main/assets/cegar.gif"
+    width="100%"
+    alt="Premium animated banner"
+  />
 
-### 💻 Aspiring Web Developer  
-### 🎓 Student • Building Real-World Projects  
+  <!-- Typing Intro -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2800&pause=900&color=F43F5E&center=true&vCenter=true&width=900&lines=Vice+CTO+%7C+Systems+Architect;Building+Scalable+and+Future-Ready+Platforms;Clean+Architecture+%E2%80%A2+Automation+%E2%80%A2+Innovation"
+    alt="Typing animation"
+  />
 
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q1dG9wMXJ5dTZ4MXJmN3VpdGN4N3N5N3Rsd3l5d2l1aGxqM3JnbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Nka3FtcHFodWwzeGw5ajRoZ2E5cHgzMDhxcm52MW04ZGh1eThudCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/3o7abpYhfcdB0pN6FO/giphy.gif)" width="100%">
+  <!-- Premium Badges -->
+  <img src="https://img.shields.io/badge/Position-Vice%20CTO-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discipline-System%20Architecture-111827?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-7F1D1D?style=for-the-badge&logo=serverfault&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Philosophy-Build%20with%20Intent-DC2626?style=for-the-badge&logo=target&logoColor=white"/>
 
-<br>
+  <h2>⚙️ Tech Stacks</h2>
 
-![](https://img.shields.io/badge/FOCUS-FULLSTACK_DEVELOPMENT-black?style=for-the-badge)
-![](https://img.shields.io/badge/PROJECT-PADINIG_AI-red?style=for-the-badge)
-![](https://img.shields.io/badge/GOAL-REMOTE_WORK-orange?style=for-the-badge)
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cs,dart,react,nextjs,vue,nodejs,express,laravel,django,flask,flutter,dotnet,tailwind,bootstrap,mysql,postgres,mongodb,firebase,supabase,git,github,postman,vscode,visualstudio,figma,docker,linux,nginx,vercel,arduino&perline=10"
+    alt="Tech stack icons"
+  />
 
-</div>
+  <h2>📊 GitHub Performance</h2>
 
----
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=F43F5E&icon_color=F43F5E&text_color=E2E8F0&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api?username=R4zor08&show_icons=true&hide_border=true&rank_icon=github&title_color=B91C1C&icon_color=B91C1C"
+      alt="GitHub stats"
+    />
+  </picture>
 
-# 🧑‍💻 About Me
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true&theme=transparent&ring=F43F5E&fire=F43F5E&currStreakLabel=F8FAFC&sideLabels=CBD5E1&dates=94A3B8&background=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      height="170"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=R4zor08&hide_border=true&ring=B91C1C&fire=DC2626"
+      alt="GitHub streak"
+    />
+  </picture>
 
-- 🌱 Currently learning **Full-Stack Development**
-- 🔧 Building web apps for real-world use
-- 🚀 Passionate about creating useful systems
-- 🎯 Goal: Become a skilled developer and work remotely
-- ⚡ I enjoy turning ideas into actual working systems
+  <h2>🔥 Contribution Activity</h2>
 
----
+  <picture>
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&theme=github-dark&hide_border=true&area=true&color=F43F5E&line=F43F5E&point=FB7185&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      width="95%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=R4zor08&hide_border=true&area=true&color=B91C1C&line=DC2626&point=F43F5E"
+      alt="GitHub activity graph"
+    />
+  </picture>
 
-# 🛠️ Tech Stack
+  <br><br>
 
-## 🎨 Frontend
-- HTML
-- CSS
-- JavaScript
-
-## ⚙️ Backend
-- Node.js
-- Express.js
-
-## 🗄️ Database
-- MongoDB
-
-## 🧰 Tools
-- Git & GitHub
-- VS Code
-- Postman
-
----
-
-# 📌 Featured Project
-
-## 🔹 Padinig AI System
-A smart barangay announcement and emergency broadcast system designed to improve communication between barangay officials and residents.
-
-### ✨ Features
-- 📢 Real-time announcements
-- 🤖 AI chatbot assistant
-- 🚨 Emergency broadcast system
-- 📱 Mobile-friendly interface
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="48%">
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-<a href="mailto:joemarjayoregor02@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-blue?style=for-the-badge&logo=gmail">
-</a>
-</p>
-
----
-
-# 💡 Quote
-
-<div align="center">
-
-> ### "Code. Learn. Build. Repeat."
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer"/>
+  <sub>
+    CREATE • EXPLORE • EXPAND • CONQUER
+  </sub>
 
 </div>
