@@ -7,7 +7,7 @@
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=28&duration=2800&pause=900&color=DC2626&center=true&vCenter=true&width=900&lines=JJXD3V;Vice+CTO+%7C+Systems+Architect;Building+Scalable+Future-Ready+Platforms;Clean+Architecture+%E2%80%A2+Automation+%E2%80%A2+Innovation;Build+With+Intent.+Ship+With+Precision."
+  src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=28&duration=2800&pause=900&color=DC2626&center=true&vCenter=true&width=900&lines=JJXD3V;Developer+%7C+Systems+Architect;Building+Scalable+Future-Ready+Platforms;Clean+Architecture+%E2%80%A2+Automation+%E2%80%A2+Innovation;Build+With+Intent.+Ship+With+Precision."
   alt="Typing intro"
 />
 
